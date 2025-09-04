@@ -18,7 +18,7 @@ This mini-project demonstrates how to simulate a QPSK-based wireless communicati
 - **Python**
 - **NumPy**
 - **Matplotlib**
-- **scikit-learn**
+- **Scikit-Learn**
 - **TensorFlow / Keras**
 
 
@@ -46,8 +46,6 @@ Labels:
 
 ## 📈 Results
 
-Example metrics:
-
 MAE: 0.1767
 MSE: 0.0489
 R²: 0.9048
@@ -64,15 +62,6 @@ This indicates that the network is learning the channel coefficients quite accur
 - Neural network training and evaluation
 - Model saving & reusability
 
-
-## 📌 To Do Next (Optional Ideas)
-
-- Try different modulation (e.g., BPSK, 16-QAM)
-- Compare with traditional channel estimation (e.g., LS or MMSE)
-- Try other ML models (Random Forest, SVM)
-- Tune hyperparameters (layers, neurons, batch size, etc.)
-
-
 ## 🙌 Credits
 
-This project was developed as a part of independent learning in digital communications and machine learning with guidance from educational resources and support from ChatGPT for conceptual clarity and coding assistance. Gratitude to the open-source community and the developers behind NumPy, scikit-learn, TensorFlow/Keras, and Matplotlib.
+This project was developed as a part of independent learning in digital communications and machine learning with guidance from educational resources and support from ChatGPT for conceptual clarity and coding assistance. Gratitude to the open-source community and the developers behind NumPy, Scikit-Learn, TensorFlow/Keras, and Matplotlib.
